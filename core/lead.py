@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##
 #lead feature functionalities
 ##
@@ -16,3 +17,6 @@ dev update_lead():
  #Delete lead
  def delete_lead():
  	print "Lead deleted sucessfully"
+=======
+lead.py
+>>>>>>> 742d2de... Started with the Lead feature development.
